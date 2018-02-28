@@ -46,15 +46,3 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>
-
-<!-- 
-<form action="/quiz_result.php" method="POST" id="quiz">
-    <h2>Identity</h2>
-        <p>How do you politically identify?</p>
-            <input type="text" name="identity">
-    <h2>Moral Foundations</h2>
-        <p>Which of the following do you think are the most</p>
-        <input type="radio">
-    <h2>Policy Support</h2>
-</form>
--->
