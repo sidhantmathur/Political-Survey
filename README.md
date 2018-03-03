@@ -1,5 +1,6 @@
 # Political-Survey
-A detailed political survey app, done in PHP. 
+Will-be detailed political survey app, done in PHP. 
+Basic functions done, now to implement definitions, weights etc. 
 
 - Question List Completed, not implemented though
 - Need to figure out question weights
